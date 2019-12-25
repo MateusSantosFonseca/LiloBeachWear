@@ -1,25 +1,37 @@
-.textoPrincipal{
-    color: #406B8C;
-    font-weight: lighter;
-  }
-  
+.textoPrincipal {
+  color: #406B8C;
+  font-weight: lighter;
+}
+
+/*
   .history-section{
     background-image: linear-gradient(to bottom right, #80c4e5 , #FFF) !important;
   }
-  
-  #about > div > div:nth-child(2) > div > ul::before{
-    background-color: #FFF;
-  }
-  
-  div.timeline-body > p{
-    color: #0e0e0e !important;
-  }
-  
-  .preenchidoErrado{
-    margin-top: 2px;
-    color: #d62e2e;
-    font-weight: bold;
-  }
-  
-  
-  
+  */
+
+.btn-estilize {
+  background-color: #406B8C !important;
+  border-color: #406B8C !important;
+}
+
+.history-section {
+  background-image: linear-gradient(to bottom right, #80c4e5, #FFF) !important;
+}
+
+#btn-estilize-texto {
+  color: white;
+}
+
+#about>div>div:nth-child(2)>div>ul::before {
+  background-color: #FFF;
+}
+
+div.timeline-body>p {
+  color: #0e0e0e !important;
+}
+
+.preenchidoErrado {
+  margin-top: 2px;
+  color: #d62e2e;
+  font-weight: bold;
+}
