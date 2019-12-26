@@ -22,6 +22,11 @@
   color: white;
 }
 
+.link-para-fundos-brancos:hover{
+  color: #65add1 !important;
+  text-decoration: none;
+}
+
 #about>div>div:nth-child(2)>div>ul::before {
   background-color: #FFF;
 }
